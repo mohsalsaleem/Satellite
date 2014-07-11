@@ -19,4 +19,89 @@
     <script src="js/jquery.stacktable.js"></script>
     <script src="http://vjs.zencdn.net/4.3/video.js"></script>
     <script src="js/application.js"></script>
+</script>
+</head>
 
+<body>  
+	
+	<div class="row demo-row">
+		<div class="col-xs-12">
+		  <nav class="navbar navbar-inverse  navbar-lg" role="navigation">
+		    <div class="navbar-header">
+		      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-01">
+		        <span class="sr-only">Toggle navigation</span>
+		      </button>
+			<a class="navbar-brand">A N U S A T</a>
+		    </div>
+		    <div class="collapse navbar-collapse" id="navbar-collapse-01">
+		      <ul class="nav navbar-nav navbar-right">           
+		        <li class="active"><a href="#fakelink">Home</a></li>
+		      <li><a href="#fakelink">Teams</a></li>
+			<li><a href="#fakelink">Acknowledgment</a></li>
+		       <li><a href="#fakelink">Status</a></li>
+		       </ul>
+		  </div><!-- /.navbar-collapse -->
+		  </nav><!-- /navbar -->
+	      </div>
+	</div>
+	
+
+
+	<div class="row">
+	   <div class="col-xs-12">
+	         <div class="col-xs-7">
+			<div class="col-sx-7">
+				<h2>Anusat</h2>			 
+				<p>The Anna University Microsatellite, or ANUSAT, is an Indian student built microsatellite. Anusat is the first satellite designed and developed by an Indian University and it is also the first satellite in India to be built and operated by any organization other than ISRO. It carries a primary store and forward payload and auxiliary technology demonstration payloads. It was successfully launched aboard PSLV-C12, along with RISAT-2, from the Second Launch Pad at the Satish Dhawan Space Centre. The launch was carried out at 01:15 GMT (06:45 IST) on 20 April 2009. The satellite's development was sponsored by the Indian Space Research Organization (ISRO). </p>			
+			</div>	
+			<div class="col-sx-7">
+				<h2>Anusat</h2>			 
+				<p>Additional Info... </p>			
+			</div>			 
+		</div>
+	         <div class="col-xs-5">
+			<h3>Overview</h3>
+  <ul>
+<li>Mass - 38 Kg
+<li>Size - 600 mm x 600 m x 600 mm cube</li>
+<li>Solar Array - Body Mounted Panels with GaAs
+       Cells</li>
+<li>Battery - Li Ion</li>
+<li>Telecommand - FSK/AM 100 bps
+       149.522 MHz Carrier</li>
+<li>Telemetry - PCM/PSK/PM 512 bps
+       137.4 MHz Carrier</li>
+<li>Primary Payload - Store and Forward
+       Data Communication FSK 1.2Kbps</li>
+<li>Auxiliary payloads - Technology
+       Validation of GPS Receiver, Mems
+       Magnetometer and Mems Gyroscope</li>
+<li>Attitude Control - Spin stabilized with
+        spin axis orientation using magnetic
+        torquer</li>
+<li>Spin Rate - 8 &#177; 0.5 rpm</li>
+<li>Spin Axis Orientation - &#177; 3&#176;
+        Sun/Orbit normal</li>
+<li>Orbit - 547 km, 41&#176; inclination to
+        polar orbit with 120 minutes
+        orbit period</li>
+<li>Visibility -10 Minutes per pass , 4 pass
+        per day</li>
+<li>Sun Sensor - &#177; 75&#176; with 0.5&#176;
+        resolution</li>
+<li>Magnetometer - &#177; 60,000 Gamma with
+        500 gamma resolution.</li>
+<li>Torquers - 4.5 Am sq capacity 4 Nos.
+        (2 in Z-axis, 1 in x-axis and 1 in
+        y-axis)</li>
+<li>Launch - PSLV C-12</li>
+<li>Life Time - 2 years</li>
+</ul>
+		</div>  
+	  </div>	  
+
+      </div>
+    		
+		
+</body>
+</html>      
